@@ -46,7 +46,7 @@ $ cd medical-diagnosis-system
 $ pip install -r requirements.txt
 ```
 
-3️⃣ Ensure you have the following **model files** in the root directory:
+3️⃣ Ensure you have the following **model files** in the root directory and you can download from Release Tab:
 📌 `brain_tumor_model.h5` (Brain Tumor Model)  
 📌 `boba.h5` (Breast Cancer Model)  
 📌 `random_forest_model.pkl` (Disease Prediction Model)  
